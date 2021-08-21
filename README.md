@@ -5,6 +5,7 @@
 - [x] onMessage 함수
 - [ ] 모듈 시스템 지원
 - [ ] 디자인 개선
+- [ ] Package Manager
 ## OpenSource License
 ### Jsoup
 MIT License
