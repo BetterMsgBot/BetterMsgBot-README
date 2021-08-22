@@ -7,6 +7,7 @@
 - [ ] 디자인 개선
 - [ ] Package Manager
 - [ ] graalvm 엔진 적용
+- [ ] 언어 선택
 ## OpenSource License
 ### Jsoup
 MIT License
