@@ -6,6 +6,7 @@
 - [ ] 모듈 시스템 지원
 - [ ] 디자인 개선
 - [ ] Package Manager
+- [ ] graalvm 엔진 적용
 ## OpenSource License
 ### Jsoup
 MIT License
