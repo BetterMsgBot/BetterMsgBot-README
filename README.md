@@ -6,6 +6,7 @@
 - [ ] 권한 요청 ui
 - [ ] 모듈 시스템 지원
 - [ ] 디자인 개선
+- [ ] git & github 지원
 - [ ] Package Manager
 - [ ] graalvm 엔진 적용
 - [ ] 언어 선택
