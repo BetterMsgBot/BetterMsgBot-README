@@ -3,6 +3,7 @@
 - [x] V8 엔진 적용
 - [x] 컴파일기능
 - [x] onMessage 함수
+- [ ] eventemitter(BotClient)
 - [ ] 권한 요청 ui
 - [ ] 모듈 시스템 지원
 - [ ] 디자인 개선
