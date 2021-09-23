@@ -1,4 +1,6 @@
 # BetterMsgBot
+## Must
+graaljs 넣기!!!!
 ## Feature
 - [x] V8 엔진 적용
 - [x] 컴파일기능
